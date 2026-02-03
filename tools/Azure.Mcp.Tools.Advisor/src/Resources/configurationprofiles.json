@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "ruleId": "Best_Practices_Azure_Automanage_are",
+      "description": "Best Practices (Azure Automanage) are being retired.",
+      "query": "where project id",
+      "fix": "Review and remediate based on recommendation"
+    }
+  ]
+}
